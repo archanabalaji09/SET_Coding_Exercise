@@ -23,7 +23,7 @@ Once the prerequisites are installed you can run the test as follows :
 The current implementation includes Browser support for Google Chrome and Mozilla Firefox. The user can select between the two browsers for testing. Google Chrome is the default browser for running the tests.
 
 ## Authors
-* **Archana Balaji** - *Inital work* - [archanabalaji](https://github.com/)
+* **Archana Balaji** - *Inital work* - [archanabalaji](https://github.com/archanabalaji09)
 
 ## Acknowledgments
 * This project was done for [Realtor.com](https://www.realtor.com/)
